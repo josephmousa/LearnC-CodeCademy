@@ -1,0 +1,2 @@
+Write a C++ program that displays the initials of your name in block letters as shown here:
+https://content.codecademy.com/courses/learn-cpp/hello-world/block-letters-hint.png
